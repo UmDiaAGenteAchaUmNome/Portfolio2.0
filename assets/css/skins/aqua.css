@@ -1,0 +1,62 @@
+
+/***------------ Color Aqua -----------***/
+
+.aside .logo a::before {
+	border-top:  4px solid #05b3b6;
+	border-left: 4px solid #05b3b6;
+}
+
+.aside .logo a::after {
+	border-bottom: 4px solid #05b3b6;
+	border-right:  4px solid #05b3b6;
+}
+
+.aside .nav li a:hover,
+.aside .nav li a.active,
+.about .about-text span,
+.about .box-status h3,
+.about .box-status h3,
+.services .service-item .service-inner .icon i,
+.portfolio .portfolio-filter button.active,
+.portfolio .portfolio-item .portfolio-info .icon i,
+.lightbox .lightbox-controls .prev i,
+.lightbox .lightbox-controls .next i,
+.blog .new-form .icon i,
+.blog .post-item .post-meta span i,
+.blog .blog-item .blog-info .blog-icons p i,
+.blog .post-item .post-comments .post-comments-meta span,
+.contact .contact-info .icon {
+	color: #05b3b6;
+}
+
+.section-title h2::before,
+.section-title h2::after,
+.btn,
+.aside .nav-toggler span,
+.aside .nav-toggler span::before,
+.aside .nav-toggler span::after,
+.home .intro .intro-social a,
+.about .skills-item .skills-inner .porcentagem,
+.about .timeline-box .timeline-item::before,
+.about .timeline-box .timeline-item .circle,
+.services .service-item .service-inner:hover .icon,
+.blog .active .page-link,
+.blog .page-link:hover  {
+	background-color: #05b3b6;
+}
+
+.about .progress-item .progress-inner .progress-box path:nth-child(2) {
+    stroke: #05b3b6 !important;
+}
+
+.portfolio .portfolio-filter button.active {
+	border-color: #05b3b6; 
+}
+
+.blog .blog-item .blog-img {
+	border-bottom: 5px solid #05b3b6;
+}
+
+.blog .active .page-link {
+	border: 1px solid #05b3b6;
+}
